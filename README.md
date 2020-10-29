@@ -18,3 +18,4 @@ Cargador de batería de 12,6 V
 Ventilador de enfriamiento 4010
 Lector de tarjetas micro SD
 Tornillos
+
