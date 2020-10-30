@@ -36,7 +36,7 @@ Lector de tarjetas micro SD
 
 Tornillos
 
-![myimage-alt-tag](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/placa%20Jetson%20Nano.jpg)
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/placa%20Jetson%20Nano%20github.jpg)
 
 
 
