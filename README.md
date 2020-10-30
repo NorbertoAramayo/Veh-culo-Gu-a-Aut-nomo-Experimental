@@ -50,7 +50,7 @@ En la siguiente figura se ve la cámara memoria MSD utilizada en el proyecto la 
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/conecci%C3%B3n%20MSD%20github.jpg)
 
-En la siguiente figura se ve la placa Wifi utilizada en el proyecto:
+En la siguiente figura se ve la placa Wifi utilizada en el proyecto la que nos permitirà conectar en red con la PC , notebook o celular:
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/WI%20FI%20jetson%20nano%20github.jpg)
 
