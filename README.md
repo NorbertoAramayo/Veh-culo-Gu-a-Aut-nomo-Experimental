@@ -71,7 +71,7 @@ En la siguiente figura se ve el shield para conectar los motores y el servo del 
 
 # Grabado del software en la tarjeta micro SD
 
-En primera instancia formateamos la memoria con SD Formater mediante el adaptador de memoria enchufada a un puerto USB de la PC:
+En primera instancia formateamos la memoria con SD Formater mediante el adaptador de memoria enchufado a un puerto USB de la PC:
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/Configuraci%C3%B3n%20de%20la%20MSD%202%20github.jpg)
 
