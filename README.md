@@ -67,6 +67,13 @@ En la siguiente figura se ve el shield para conectar los motores y el servo del 
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/motor%20shield%20github.jpg)
 
+# Grabado del software en la tarjeta micro SD
+
+En primera instancia formateamos la memoria con SD Formater:
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/motor%20shield%20github.jpg)
+
+
 
 
 
