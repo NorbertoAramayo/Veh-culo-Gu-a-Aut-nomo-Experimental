@@ -37,3 +37,22 @@ Lector de tarjetas micro SD
 Tornillos
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
