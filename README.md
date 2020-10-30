@@ -54,6 +54,11 @@ En la siguiente figura se ve la placa Wifi utilizada en el proyecto la que nos p
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/WI%20FI%20jetson%20nano%20github.jpg)
 
+En la siguiente figura se ve los actuadores utilizados en el proyecto:
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/actuadores%202020%20github.jpg)
+
+
 
 
 
