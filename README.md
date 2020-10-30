@@ -37,6 +37,7 @@ Lector de tarjetas micro SD
 Tornillos
 
 # Armado del prototipo
+(En las figuras se ven elementos destacados del robot)
 
 En la siguiente figura se ve la computadora con sus conectores:
 
