@@ -36,6 +36,8 @@ Lector de tarjetas micro SD
 
 Tornillos
 
+# Armado del prototipo
+
 En la siguiente figura se ve la computadora con sus conectores:
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/placa%20Jetson%20Nano%20github.jpg)
