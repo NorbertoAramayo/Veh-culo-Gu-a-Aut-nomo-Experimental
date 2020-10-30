@@ -40,6 +40,14 @@ En la siguiente figura se ve la computadora con sus conectores:
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/placa%20Jetson%20Nano%20github.jpg)
 
+En la siguiente figura se ve la cámara utilizada en el proyecto:
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/camara%20github.jpg)
+
+En la siguiente figura se ve la cámara memoria MSD utilizada en el proyecto la que debe tener 16 GB o de mayor capacidad:
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/conecci%C3%B3n%20MSD%20github.jpg)
+
 
 
 
