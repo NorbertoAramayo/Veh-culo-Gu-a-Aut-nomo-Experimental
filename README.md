@@ -59,6 +59,14 @@ En la siguiente figura se ve los actuadores utilizados en el proyecto:
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/actuadores%202020%20github.jpg)
 
+En la siguiente figura se ve las conexiones utilizadas para configurar la computadora:
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/conecciones%20github.jpg)
+
+En la siguiente figura se ve el shield para conectar los motores y el servo del robot:
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/motor%20shield%20github.jpg)
+
 
 
 
