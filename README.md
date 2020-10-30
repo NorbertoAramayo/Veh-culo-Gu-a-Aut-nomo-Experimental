@@ -71,7 +71,7 @@ En la siguiente figura se ve el shield para conectar los motores y el servo del 
 
 En primera instancia formateamos la memoria con SD Formater:
 
-![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/motor%20shield%20github.jpg)
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/Configuraci%C3%B3n%20de%20la%20MSD%202%20github.jpg)
 
 
 
