@@ -6,6 +6,8 @@ Placa Jetson Nano
 
 Tarjeta Micro SD 64GB
 
+Adaptador USB para memoria micro SD
+
 Estructura metálica para montar un vehículo robótico
 
 Tarjeta de expansión 
@@ -69,11 +71,11 @@ En la siguiente figura se ve el shield para conectar los motores y el servo del 
 
 # Grabado del software en la tarjeta micro SD
 
-En primera instancia formateamos la memoria con SD Formater:
+En primera instancia formateamos la memoria con SD Formater mediante el adaptador de memoria enchufada a un puerto USB de la PC:
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/Configuraci%C3%B3n%20de%20la%20MSD%202%20github.jpg)
 
-Luego utilizamos USB Image Tool para grabar la imagen delsistema que utilizará el robot:
+Luego utilizamos USB Image Tool para grabar la imagen del sistema que utilizará el robot mediante el adaptador USB de memoria enchufado a un puerto USB de la PC :
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/USB%20Image%20Tool%20github.jpg)
 
