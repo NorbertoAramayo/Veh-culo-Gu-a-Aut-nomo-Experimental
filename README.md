@@ -83,6 +83,22 @@ Luego utilizamos USB Image Tool para grabar la imagen del sistema que utilizará
 
 Cabe destacar que tanto Jetson Nano como Blackberry utilizan el sistema operativo Linux por lo que es necesario contar con una máquina que utilice este SO.  Si bien hay diversas manera de obtener una máquina vbrtual entre las que podemos citar la utilización de software específico para realizar la virtualización como VMware, VirtualBox y otros, tambien se podría utilizar dual boot en la PC para seleccionar un arranque con Linux, en este caso uitlizaremos la posibilidad que nos brinda Windows 10 de ejecutar una terminal de Ubuntu como una aplicación.
 
+Inicialmente debemos ener actualizado Windos 10 e instalar el Subsistema de Windows para Linux con:
+
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+Luego debemos habilitar la característica opcional Plataforma de máquina virtual en Windos ejecutando en el power Shell el comando:
+
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+
+para luego descargar el paquete de Linux, Ubuntu 18.04 LTS
+
+
+
+
+
+
+
 
 
 
