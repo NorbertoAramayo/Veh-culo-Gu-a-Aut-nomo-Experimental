@@ -97,6 +97,29 @@ Tendeemos de ese modo Ubuntu 18.04 en el escritorio de windows con un acceso que
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/icono%20ubuntu.jpg)
 
+Accedemos a Ubuntu 18.04 
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/ubuntu%2018.04.jpg)
+
+Instaalción de Jupiter en ubuntu 18.04:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ingresamos al directorio y luego a Jupyter
+
+
+
 
 
 
