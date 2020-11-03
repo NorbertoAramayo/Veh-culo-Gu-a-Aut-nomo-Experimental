@@ -93,6 +93,10 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 
 para luego descargar el paquete de Linux, Ubuntu 18.04 LTS
 
+Tendeemos de ese modo Ubuntu 18.04 en el escritorio de windows con un acceso que se verá de la siguiente manera
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/icono%20ubuntu.jpg)
+
 
 
 
