@@ -143,6 +143,10 @@ Nos saldrá una notificación como la siguiente, por lo que usamos estas direcci
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/ejecutando%20jupyter.jpg)
 
+Y se mostrará jupyter para poder trabajar con el código de nuestro vehículo guía experimental
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/jupyter.jpg)
+
 
 
 
