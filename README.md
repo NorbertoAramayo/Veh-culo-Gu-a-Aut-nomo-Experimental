@@ -101,7 +101,47 @@ Accedemos a Ubuntu 18.04
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/ubuntu%2018.04.jpg)
 
-Instaalción de Jupiter en ubuntu 18.04:
+# Instaalción de Jupiter en ubuntu 18.04:
+
+Actualizamos el índice de paquetes local apt 
+
+$ sudo apt update
+
+Luego descargamos e instalaremos los paquetes
+Instalamos pip y los archivos de encabezado de Python, utilizados por algunas dependencias de Jupyter:
+
+sudo apt install python3-pip python3-dev
+
+Creamos un entorno virtual de Python para administrar nuestros proyectos e instalaremos Jupyter en este entorno virtual.
+
+$ sudo -H pip3 install --upgrade pip
+
+
+$ sudo -H pip3 install virtualenv
+
+Creamos un directorio en el que podamos guardar los archivos de nuestro proyecto e ingresamos en él
+
+$ mkdir ~/miproyecto
+
+$ cd ~/miproyecto
+
+Creamos un entorno virtual de Python dentro del directorio miproyecto
+
+Activamoe el entorno virtual para instalar Jupiter
+
+$ source miproyecto_env/bin/activate
+
+Instalamos jupyter
+
+$ pip install jupyter
+
+Finalmente ejecutamos jupyter
+
+$ jupyter notebook
+
+Nos saldrá una notificación como la siguiente, por lo que usamos estas direcciones para ejecutarla en un navegador
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/ejecutando%20jupyter.jpg)
 
 
 
@@ -116,7 +156,8 @@ Instaalción de Jupiter en ubuntu 18.04:
 
 
 
-Ingresamos al directorio y luego a Jupyter
+
+
 
 
 
