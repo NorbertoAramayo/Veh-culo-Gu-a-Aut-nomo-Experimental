@@ -157,7 +157,7 @@ Y se mostrará jupyter para poder trabajar con el código de nuestro vehículo g
 
 # Tensorflow - Keras
 
-![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/keras.ipynb)
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/keras%20c%C3%B3digo.JPG)
 
 
 # Crear carpeta de datos
