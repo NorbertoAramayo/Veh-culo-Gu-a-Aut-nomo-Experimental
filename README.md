@@ -168,6 +168,12 @@ Y se mostrará jupyter para poder trabajar con el código de nuestro vehículo g
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/carpeta%20de%20datos.JPG)
 
+# Conducir y entrenar el modelo
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/entrenar%20el%20modelo.JPG)
+
+
+
 
 
 
