@@ -160,6 +160,17 @@ Y se mostrará jupyter para poder trabajar con el código de nuestro vehículo g
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/keras.ipynb)
 
 
+# Crear carpeta de datos
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/crear%20carpeta%20de%20datos.JPG)
+
+# Administrar carpeta de datos
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/carpeta%20de%20datos.JPG)
+
+
+
+
 
 
 
