@@ -147,6 +147,16 @@ Y se mostrará jupyter para poder trabajar con el código de nuestro vehículo g
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/jupyter.jpg)
 
+# inicio del trabajo con el código del vehículo
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/codigo%20vehiculo.JPG)
+
+# Repositorio de datos
+
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/repositorio%20de%20datos.JPG)
+
+
+
 
 
 
