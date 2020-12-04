@@ -78,8 +78,8 @@ obtiene el robot en el lugar de actividad; Tensorflow - Keras donde se destacan 
 [Código del vehiculo](https://github.com/NorbertoAramayo/C-digo-del-robot)[...]
 
 ## 6) Conexión para la condución - Entrenamiento del modelo
-En este apartado se muestra la forma de conectar pàra la condución inicial a grandes distancias, y para entrenar el robot guía autónomo experimental 
-[Conexión y entrenamiento](https://github.com/NorbertoAramayo/Conectar-conducir-y-entrenar-el-robot/blob/main/README.md)
+En este apartado se muestra la forma de conectar pàra la condución inicial a grandes distancias, y para entrenar el robot guía autónomo experimental. 
+[Conexión y entrenamiento](https://github.com/NorbertoAramayo/Conectar-conducir-y-entrenar-el-robot/blob/main/README.md)[...]
 
 
 
