@@ -2,7 +2,7 @@
 
 # Índice
 
-### 1) [Introducción] (https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental#Introducción)
+### 1) Introducción
 ### 2) Materiales utilizados
 ### 3) Armado del prototipo
 ### 4) Software utilizado
