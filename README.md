@@ -63,7 +63,7 @@ Lector de tarjetas micro SD
 Tornillos
 
 ## 3) Armado del prototipo
-Se describe en este apartado el armado del prototipo del robot guía, destacando sus partes mas destacadas, los conectores, los elementos para la comunicacion Wifi del robot, los efectores, los actuadores, y los sensores utilizados (en este caso una cámara web Raspberry según lo detallado en la lista de elementos detallados en la sección anterior)
+Se describe en este apartado el armado del prototipo del robot guía, destacando sus partes mas importantes como el armado de la computadora Jetson Nano, los conectores a los diferentes periféricos de la misma, los elementos para la comunicacion Wifi del robot, los efectores, los actuadores, y los sensores utilizados (en este caso una cámara web Raspberry según lo detallado en la lista de elementos de la sección anterior)
 [Se describe aquí el armado del prototipo](https://github.com/NorbertoAramayo/Prototipo/blob/main/README.md)[...]
 
 ## 4) Software Utilizado
