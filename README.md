@@ -70,7 +70,7 @@ Se describe en este apartado el armado del prototipo del robot guía, destacando
 Se muestra en esta sección la preparación de la tarjeta MSD que se utiliza en el robot guía experimental, el software utilizado y su utilización. 
 Si bien puede utilizarse una tarjeta de 16 GB, es recoomendable una de mayor capcidad a los efectos de realizar las tareas de administración que se necesitan
 teiendo en cuenta también que en la misma estará el SO que utilizará el robot experimental y donde correrá la terminal de Ubuntu a los efectos qeu fueran necsarios.
-[MSD- Instalación y Configuración]()[...]
+[MSD- Instalación y Configuración](https://github.com/NorbertoAramayo/MSD---Configuraci-n/blob/main/README.md)[...]
 
 ## 5) Inicio del trabajo con el código del vehículo
 
