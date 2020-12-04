@@ -16,8 +16,8 @@ Este trabajo está orientado a crear un vehículo guía autónomo experimental q
 #### 5-1 Repositorio de datos
 #### 5-2 Tensorflow - Keras
 #### 5-3 Crear carpeta de datos
-#### 5-4 Administrar carpeta de datos
-#### 5-5 Conducir y entrenar el modelo
+#### 5-4 Administrar carpeta de dato
+### 6) Conducir y entrenar el modelo
 
 
 Los materiales utilizados en este proyecto son:
