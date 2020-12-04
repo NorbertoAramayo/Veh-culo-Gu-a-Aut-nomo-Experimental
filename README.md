@@ -1,7 +1,25 @@
 # Vehiculo-Guia-Autonomo-Experimental
 # Introducción
 
-Este proyecto está orientado a la creación de un vehiculo que pueda desplazarse por las instalaciones de un edificio guiando a las personas en su recorrido.
+Este trabajo está orientado a crear un vehículo guía autónomo experimental que sirva para recorrer y guiar a los vasitantes de empresas o instituciones por las diferentes instalaciones que estas poseen. El mismo recorre los diferentes estamentos de la planta baja donde se desarrollan actividades propias de este tipo establecimientos  El vehículo guía autónomo cuenta con los elementos necesarios para desplazarse en forma independiente sin colisionar con las instalaciones u ocasionales transeúntes. .
+
+# Índice
+
+# Introduccion
+# Materiales utilizados
+# Armado del prototipo
+# Software utilizado
+## Software en la tarjeta Micro SD
+## Armado de la máquina virtual con Ubuntu 18.04 y Jupiter
+## Instaalción de Jupiter en Ubuntu
+# Código del vehículo
+## Repositorio de datos
+## Tensorflow - Keras
+## Crear carpeta de datos
+## Administrar carpeta de datos
+## Conducir y entrenar el modelo
+
+
 Los materiales utilizados en este proyecto son:
 
 Placa Jetson Nano
@@ -103,7 +121,7 @@ Accedemos a Ubuntu 18.04
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/ubuntu%2018.04.jpg)
 
-# Instaalción de Jupiter en ubuntu 18.04:
+# Instaalción de Jupiter en Ubuntu 18.04:
 
 Actualizamos el índice de paquetes local apt 
 
