@@ -73,27 +73,9 @@ teiendo en cuenta también que en la misma estará el SO que utilizará el robot
 [MSD- Instalación y Configuración](https://github.com/NorbertoAramayo/MSD---Configuraci-n/blob/main/README.md)[...]
 
 ## 5) Inicio del trabajo con el código del vehículo
-
-Utilizamos en este proyecto la biblioteca Donkey Car por lo que en todos los casos en necesario importarla
-
-![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/codigo%20vehiculo.JPG)
-
-### 5-1 Repositorio de datos
-
-![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/repositorio%20de%20datos.JPG)
-
-### 5-2 Tensorflow - Keras
-
-![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/keras%20c%C3%B3digo.JPG)
-
-
-### 5-3 Crear carpeta de datos
-
-![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/crear%20carpeta%20de%20datos.JPG)
-
-### 5-4 Administrar carpeta de datos
-
-![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/carpeta%20de%20datos.JPG)
+En esta sección se muestra el código utilizado en este proyecto entre los cuales se pueden citar el Repositorio de datos que tiene la función de guardar los datos que 
+obtiene el robot en el lugar de actividad; Tensorflow - Keras donde se destacan aspectos centrales del modelo, la creación de las Folder donde se muestra la creación de las carpetas necesarias para el funcionamiento del prototipo, el software para administyrar las mismas y también el código de conducción y entrenamiento del prototipo. 
+[Código del vehiculo]()[...]
 
 ## 6) Conducir y entrenar el modelo
 
