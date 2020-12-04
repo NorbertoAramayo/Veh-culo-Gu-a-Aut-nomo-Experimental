@@ -6,18 +6,18 @@ Este trabajo está orientado a crear un vehículo guía autónomo experimental q
 # Índice
 
 # Introduccion
-# Materiales utilizados
-# Armado del prototipo
-# Software utilizado
-## Software en la tarjeta Micro SD
-## Armado de la máquina virtual con Ubuntu 18.04 y Jupiter
-## Instaalción de Jupiter en Ubuntu
-# Código del vehículo
-## Repositorio de datos
-## Tensorflow - Keras
-## Crear carpeta de datos
-## Administrar carpeta de datos
-## Conducir y entrenar el modelo
+## Materiales utilizados
+## Armado del prototipo
+## Software utilizado
+### Software en la tarjeta Micro SD
+### Armado de la máquina virtual con Ubuntu 18.04 y Jupiter
+### Instaalción de Jupiter en Ubuntu
+## Código del vehículo
+### Repositorio de datos
+### Tensorflow - Keras
+### Crear carpeta de datos
+### Administrar carpeta de datos
+### Conducir y entrenar el modelo
 
 
 Los materiales utilizados en este proyecto son:
