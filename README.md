@@ -1,11 +1,8 @@
 # Vehiculo-Guia-Autonomo-Experimental
-# 1) Introducción
-
-Este trabajo está orientado a crear un vehículo guía autónomo experimental que sirva para recorrer y guiar a los vasitantes de empresas o instituciones por las diferentes instalaciones que estas poseen. El mismo recorre los diferentes estamentos de la planta baja donde se desarrollan actividades propias de este tipo establecimientos  El vehículo guía autónomo cuenta con los elementos necesarios para desplazarse en forma independiente sin colisionar con las instalaciones u ocasionales transeúntes. .
 
 # Índice
 
-### 1) Introduccion
+### 1) [Introducción] (https://github.com/HecMartinSol/VIU_TFM#Introducción)
 ### 2) Materiales utilizados
 ### 3) Armado del prototipo
 ### 4) Software utilizado
@@ -19,8 +16,12 @@ Este trabajo está orientado a crear un vehículo guía autónomo experimental q
 #### 5-4 Administrar carpeta de dato
 ### 6) Conducir y entrenar el modelo
 
+# 1) Introducción
 
-Los materiales utilizados en este proyecto son:
+Este trabajo está orientado a crear un vehículo guía autónomo experimental que sirva para recorrer y guiar a los vasitantes de empresas o instituciones por las diferentes instalaciones que estas poseen. El mismo recorre los diferentes estamentos de la planta baja donde se desarrollan actividades propias de este tipo establecimientos  El vehículo guía autónomo cuenta con los elementos necesarios para desplazarse en forma independiente sin colisionar con las instalaciones u ocasionales transeúntes. .
+
+
+### Los materiales utilizados en este proyecto son:
 
 Placa Jetson Nano
 
