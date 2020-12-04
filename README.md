@@ -4,7 +4,7 @@
 
 ### 1) [Introducción](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#1-introducci%C3%B3n)
 ### 2) [Materiales utilizados](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#2-los-materiales-utilizados-en-este-proyecto-son)
-### 3) Armado del prototipo
+### 3) [Armado del prototipo](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#3-armado-del-prototipo-1)
 ### 4) Software utilizado
 #### 4-1 Software en la tarjeta Micro SD
 #### 4-2 Armado de la máquina virtual con Ubuntu 18.04 y Jupiter
