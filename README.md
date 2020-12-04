@@ -9,14 +9,14 @@ Tutor: [Guzmán Álvarez, César A.](https://scholar.google.com/citations?user=p
 ### 2) [Materiales utilizados](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#2-los-materiales-utilizados-en-este-proyecto-son)
 ### 3) [Armado del prototipo](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#3-armado-del-prototipo-1)
 ### 4) [Software utilizado](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#4-software-utilizado-1)
-#### 4-1 [Software en la tarjeta Micro SD](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#4-1-grabado-del-software-en-la-tarjeta-micro-sd)
-#### 4-2 [Armado de la máquina virtual con Ubuntu 18.04 y Jupiter](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#4-2-armado-de-la-m%C3%A1quina-virtual-con-ubuntu-1804-y-jupiter-para--trabajar-con-el-c%C3%B3digo-que-utilizar%C3%A1-el-robot)
-#### 4-3 [Instaalción de Jupiter en Ubuntu](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#4-3-instaalci%C3%B3n-de-jupiter-en-ubuntu-1804)
+#### 4-1 Software en la tarjeta Micro SD
+#### 4-2 Armado de la máquina virtual con Ubuntu 18.04 y Jupiter
+#### 4-3 Instaalción de Jupiter en Ubuntu
 ### 5) [Código del vehículo](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#5-inicio-del-trabajo-con-el-c%C3%B3digo-del-veh%C3%ADculo)
-#### 5-1 [Repositorio de datos](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#5-1-repositorio-de-datos-1)
-#### 5-2 [Tensorflow - Keras](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#5-2-tensorflow---keras-1)
-#### 5-3 [Crear carpeta de datos](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#5-3-crear-carpeta-de-datos-1)
-#### 5-4 [Administrar carpeta de dato](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#5-4-administrar-carpeta-de-datos)
+#### 5-1 Repositorio de datos
+#### 5-2 Tensorflow - Keras
+#### 5-3 Crear carpeta de datos
+#### 5-4 Administrar carpeta de dato
 ### 6) [Conducir y entrenar el modelo](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#6-conducir-y-entrenar-el-modelo-1)
 
 ## 1) Introducción
