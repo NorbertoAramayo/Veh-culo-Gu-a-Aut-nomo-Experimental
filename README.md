@@ -63,6 +63,7 @@ Lector de tarjetas micro SD
 Tornillos
 
 ## 3) Armado del prototipo
+[Se describe aquí el armado del prototipo](https://github.com/NorbertoAramayo/Prototipo/blob/main/README.md) 
 (En las figuras se ven elementos destacados del robot)
 
 En la siguiente figura se ve la computadora con sus conectores:
