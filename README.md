@@ -77,8 +77,9 @@ En esta sección se muestra el código utilizado en este proyecto entre los cual
 obtiene el robot en el lugar de actividad; Tensorflow - Keras donde se destacan aspectos centrales del modelo, la creación de las Folder donde se muestra la creación de las carpetas necesarias para el funcionamiento del prototipo, el software para administyrar las mismas y también el código de conducción y entrenamiento del prototipo. 
 [Código del vehiculo](https://github.com/NorbertoAramayo/C-digo-del-robot)[...]
 
-## 6) Conectar, conducir y entrenar el modelo
-En este apartado se muestra la forma de conectar, conducir entrenar el robot guía autónomo experimental 
+## 6) Conexión para la condución - Entrenamiento del modelo
+En este apartado se muestra la forma de conectar pàra la condución inicial a grandes distancias, y para entrenar el robot guía autónomo experimental 
+[Conexión y entrenamiento](https://github.com/NorbertoAramayo/Conectar-conducir-y-entrenar-el-robot/blob/main/README.md)
 
 
 
