@@ -64,7 +64,6 @@ Tornillos
 
 ## 3) Armado del prototipo
 (En las figuras se ven elementos destacados del robot)
-[Armado del prototipo](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/Prototipo)
 
 En la siguiente figura se ve la computadora con sus conectores:
 
