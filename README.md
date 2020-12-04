@@ -1,23 +1,23 @@
 # Vehiculo-Guia-Autonomo-Experimental
-# Introducción
+# 1) Introducción
 
 Este trabajo está orientado a crear un vehículo guía autónomo experimental que sirva para recorrer y guiar a los vasitantes de empresas o instituciones por las diferentes instalaciones que estas poseen. El mismo recorre los diferentes estamentos de la planta baja donde se desarrollan actividades propias de este tipo establecimientos  El vehículo guía autónomo cuenta con los elementos necesarios para desplazarse en forma independiente sin colisionar con las instalaciones u ocasionales transeúntes. .
 
 # Índice
 
-## Introduccion
-### Materiales utilizados
-### Armado del prototipo
-### Software utilizado
-#### Software en la tarjeta Micro SD
-#### Armado de la máquina virtual con Ubuntu 18.04 y Jupiter
-#### Instaalción de Jupiter en Ubuntu
-### Código del vehículo
-#### Repositorio de datos
-#### Tensorflow - Keras
-#### Crear carpeta de datos
-#### Administrar carpeta de datos
-#### Conducir y entrenar el modelo
+### 1) Introduccion
+### 2) Materiales utilizados
+### 3) Armado del prototipo
+### 4) Software utilizado
+#### 4-1 Software en la tarjeta Micro SD
+#### 4-2 Armado de la máquina virtual con Ubuntu 18.04 y Jupiter
+#### 4-3 Instaalción de Jupiter en Ubuntu
+### 5) Código del vehículo
+#### 5-1 Repositorio de datos
+#### 5-2 Tensorflow - Keras
+#### 5-3 Crear carpeta de datos
+#### 5-4 Administrar carpeta de datos
+#### 5-5 Conducir y entrenar el modelo
 
 
 Los materiales utilizados en este proyecto son:
