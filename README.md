@@ -16,12 +16,12 @@
 #### 5-4 Administrar carpeta de dato
 ### 6) Conducir y entrenar el modelo
 
-# 1) Introducción
+## 1) Introducción
 
 Este trabajo está orientado a crear un vehículo guía autónomo experimental que sirva para recorrer y guiar a los vasitantes de empresas o instituciones por las diferentes instalaciones que estas poseen. El mismo recorre los diferentes estamentos de la planta baja donde se desarrollan actividades propias de este tipo establecimientos  El vehículo guía autónomo cuenta con los elementos necesarios para desplazarse en forma independiente sin colisionar con las instalaciones u ocasionales transeúntes. .
 
 
-### Los materiales utilizados en este proyecto son:
+## Los materiales utilizados en este proyecto son:
 
 Placa Jetson Nano
 
@@ -59,7 +59,7 @@ Lector de tarjetas micro SD
 
 Tornillos
 
-# Armado del prototipo
+## Armado del prototipo
 (En las figuras se ven elementos destacados del robot)
 
 En la siguiente figura se ve la computadora con sus conectores:
@@ -90,7 +90,9 @@ En la siguiente figura se ve el shield para conectar los motores y el servo del 
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/motor%20shield%20github.jpg)
 
-# Grabado del software en la tarjeta micro SD
+## Software Utilizado
+
+### Grabado del software en la tarjeta micro SD
 
 En primera instancia formateamos la memoria con SD Formater mediante el adaptador de memoria enchufado a un puerto USB de la PC:
 
@@ -100,7 +102,7 @@ Luego utilizamos USB Image Tool para grabar la imagen del sistema que utilizará
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/USB%20Image%20Tool%20github.jpg)
 
-# Armado de la máquina virtual con Ubuntu 18.04 y Jupiter para  trabajar con el código que utilizará el robot.
+### Armado de la máquina virtual con Ubuntu 18.04 y Jupiter para  trabajar con el código que utilizará el robot.
 
 Cabe destacar que tanto Jetson Nano como Blackberry utilizan el sistema operativo Linux por lo que es necesario contar con una máquina que utilice este SO.  Si bien hay diversas manera de obtener una máquina vbrtual entre las que podemos citar la utilización de software específico para realizar la virtualización como VMware, VirtualBox y otros, tambien se podría utilizar dual boot en la PC para seleccionar un arranque con Linux, en este caso uitlizaremos la posibilidad que nos brinda Windows 10 de ejecutar una terminal de Ubuntu como una aplicación.
 
@@ -122,7 +124,7 @@ Accedemos a Ubuntu 18.04
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/ubuntu%2018.04.jpg)
 
-# Instaalción de Jupiter en Ubuntu 18.04:
+### Instaalción de Jupiter en Ubuntu 18.04:
 
 Actualizamos el índice de paquetes local apt 
 
@@ -168,30 +170,30 @@ Y se mostrará jupyter para poder trabajar con el código de nuestro vehículo g
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/jupyter.jpg)
 
-# inicio del trabajo con el código del vehículo
+## inicio del trabajo con el código del vehículo
 
 Utilizamos en este proyecto la biblioteca Donkey Car por lo que en todos los casos en necesario importarla
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/codigo%20vehiculo.JPG)
 
-# Repositorio de datos
+### Repositorio de datos
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/repositorio%20de%20datos.JPG)
 
-# Tensorflow - Keras
+### Tensorflow - Keras
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/keras%20c%C3%B3digo.JPG)
 
 
-# Crear carpeta de datos
+### Crear carpeta de datos
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/crear%20carpeta%20de%20datos.JPG)
 
-# Administrar carpeta de datos
+### Administrar carpeta de datos
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/carpeta%20de%20datos.JPG)
 
-# Conducir y entrenar el modelo
+## Conducir y entrenar el modelo
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/entrenar%20el%20modelo.JPG)
 
