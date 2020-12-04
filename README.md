@@ -7,7 +7,7 @@
 ### 3) [Armado del prototipo](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#3-armado-del-prototipo-1)
 ### 4) [Software utilizado](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#4-software-utilizado-1)
 #### 4-1 [Software en la tarjeta Micro SD](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#4-1-grabado-del-software-en-la-tarjeta-micro-sd)
-#### 4-2 Armado de la máquina virtual con Ubuntu 18.04 y Jupiter
+#### 4-2 [Armado de la máquina virtual con Ubuntu 18.04 y Jupiter](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#4-2-armado-de-la-m%C3%A1quina-virtual-con-ubuntu-1804-y-jupiter-para--trabajar-con-el-c%C3%B3digo-que-utilizar%C3%A1-el-robot)
 #### 4-3 Instaalción de Jupiter en Ubuntu
 ### 5) Código del vehículo
 #### 5-1 Repositorio de datos
