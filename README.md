@@ -75,7 +75,7 @@ teiendo en cuenta también que en la misma estará el SO que utilizará el robot
 ## 5) Inicio del trabajo con el código del vehículo
 En esta sección se muestra el código utilizado en este proyecto entre los cuales se pueden citar el Repositorio de datos que tiene la función de guardar los datos que 
 obtiene el robot en el lugar de actividad; Tensorflow - Keras donde se destacan aspectos centrales del modelo, la creación de las Folder donde se muestra la creación de las carpetas necesarias para el funcionamiento del prototipo, el software para administyrar las mismas y también el código de conducción y entrenamiento del prototipo. 
-[Código del vehiculo]()[...]
+[Código del vehiculo](https://github.com/NorbertoAramayo/C-digo-del-robot)[...]
 
 ## 6) Conducir y entrenar el modelo
 
