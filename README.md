@@ -17,7 +17,7 @@ Tutor: [Guzmán Álvarez, César A.](https://scholar.google.com/citations?user=p
   ####    ____5-2 Tensorflow - Keras
   ####    ____5-3 Crear carpeta de datos
   ####    ____5-4 Administrar carpeta de dato
-### 6) [Conducir y entrenar el modelo](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#6-conducir-y-entrenar-el-modelo-1)
+### 6) [Conectar, conducir y entrenar el modelo](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#6-conducir-y-entrenar-el-modelo-1)
 
 ## 1) Introducción
 
@@ -77,9 +77,10 @@ En esta sección se muestra el código utilizado en este proyecto entre los cual
 obtiene el robot en el lugar de actividad; Tensorflow - Keras donde se destacan aspectos centrales del modelo, la creación de las Folder donde se muestra la creación de las carpetas necesarias para el funcionamiento del prototipo, el software para administyrar las mismas y también el código de conducción y entrenamiento del prototipo. 
 [Código del vehiculo](https://github.com/NorbertoAramayo/C-digo-del-robot)[...]
 
-## 6) Conducir y entrenar el modelo
+## 6) Conectar, conducir y entrenar el modelo
+En este apartado se muestra la forma de conectar, conducir entrenar el robot guía autónomo experimental 
 
-![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/entrenar%20el%20modelo.JPG)
+
 
 
 
